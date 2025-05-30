@@ -1,2 +1,2 @@
 # Atomic-Source
-Atomicals Source Code [ Public ]
+**Public**
