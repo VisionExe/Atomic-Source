@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--- Atomicals Interface [ Money Code ]    | Created by discord.gg/getsades & ATMC Community     | Unauthorized use or redistribution is strictly prohibited                                         --
+-- Atomicals Public Assets [ Utils ]     | Created by discord.gg/getsades & ATMC Community     | Unauthorized use or redistribution is strictly prohibited                                         --
 -- Version 4.0.1 - Open Source           | Last updated: 2025 · No public changelogs           | This software is protected under copyright law. Legal action may be taken against violators       --
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
